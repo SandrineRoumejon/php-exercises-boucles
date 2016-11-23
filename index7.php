@@ -7,8 +7,8 @@
   <body>
     <?php
     $variable= 1;
-    for ($variable=1; $variable <=15 ; $i++) {
-      echo "on tient le bon bout <br />"
+    for ($variable=1; $variable <=100 ; $variable=$variable+15) {
+      echo "on tient le bon bout <br />";
     }
 
      ?>

@@ -6,10 +6,10 @@
   </head>
   <body>
     <?php
-    $variable1= 0;
+    $variable1= 1;
     while ($variable1<= 15) {
       $variable1++;
-      echo "on y arrive presque:<br />"
+      echo "on y arrive presque:<br />";
     }
 
      ?>

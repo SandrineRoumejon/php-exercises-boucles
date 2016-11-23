@@ -7,8 +7,8 @@
   <body>
   <?php
 $variable= 20;
-for ($variable= 20; $variable <=20 ; $i--) {
-  echo "c'est presque bon <br />"
+for ($variable= 20; $variable <=0 ; $i--) {
+  echo "c'est presque bon <br />";
 }
 
    ?>

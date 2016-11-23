@@ -8,9 +8,9 @@
   <?php
 $variable1 = 1;
 while ($variable1 <= 10) {
-       $variable1++
-       $resultat = $variable1 / 2;
-        echo $resultat "<br />";
+        echo $variable1."<br />";
+        $moitie = $variable1 / 2;
+        $variable1 += $moitie;
 }
 
    ?>

@@ -8,8 +8,8 @@
     <?php
 
     $variable= 200;
-    for ($variable=200; $variable <=12 ; $i--) {
-      echo "Enfin !!!! <br />"
+    for ($variable=200; $variable >=0 ;$variable=$variable-12) {
+      echo "Enfin !!!! <br />";
     }
 
 
